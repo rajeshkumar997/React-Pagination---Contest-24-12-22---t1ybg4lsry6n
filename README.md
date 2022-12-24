@@ -1,4 +1,7 @@
 # boilerplate-react-functional-public
+
+https://velvety-youtiao-9472da.netlify.app/
+
 In this porject, you will be creating a creating a paginated posts fetching app.
 Using this API endpoint <code>https://jsonplaceholder.typicode.com/posts</code>,
 but it returns all 200 posts, so instead we will use this endpoint
